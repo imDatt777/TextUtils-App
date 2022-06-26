@@ -1,4 +1,3 @@
-import "./App.css";
 // eslint-disable-next-line
 import { About } from "./components/About";
 import { NavBar } from "./components/NavBar";
